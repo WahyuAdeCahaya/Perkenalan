@@ -5,5 +5,5 @@
 # Pendidikan terakhir : SMP (Sekarang di SMK Telkom MAlang
 # Hobi : Membaca
 # IG : @wahyuade_c
-# Foto saya !foto(https://github.com/delxcign/Perkenalan/blob/master/foto.jpg)
+# Foto saya
 
